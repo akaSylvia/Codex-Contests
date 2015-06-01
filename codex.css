@@ -1,0 +1,21 @@
+<!--
+A, A:link, A:visited {color:#0000FF;text-decoration:none;}
+A:hover {color:#009999; text-decoration:underline;}
+rev, A.rev, A.rev:link {color:#FFFFCC; text-decoration:none;}
+A.rev:visited {color: #FFFFCC; text-decoration:none;}
+A.rev:hover {color: #009999; text-decoration:underline;}
+A.revUL:link, A.revUL:visited, A.revUL:hover {color:#FFFFCC;text-decoration:underline;}
+td , BODY, p {  font-family: "Arial Unicode MS", Verdana, Arial, Helvetica, sans-serif; font-size: 11pt;}
+.react {font-size: 9pt; color: #FF6600;}
+.smaller {  font-size: 10pt;}
+.smallish {  font-family: "Arial Unicode MS", Verdana, Arial, Helvetica, sans-serif; font-size: 10pt; font-style: italic;}
+.largish {  font-family: "Arial Unicode MS", Verdana, Arial, Helvetica, sans-serif; font-size: 14pt;}
+.normtext {  font-family: "Arial Unicode MS", Verdana, Arial, Helvetica, sans-serif; font-size: 11pt;}
+.whitetext {  font-family: "Arial Unicode MS", Verdana, Arial, Helvetica, sans-serif; font-size: 11pt; color: #FFFFFF;}
+.tablehead {  font-weight: bold; background-color: #CCCCCC;}
+H1 {  font-family: "Palatino Linotype", "Palatino", "Microsoft Serif", "Times New Roman"; font-size: 28pt; font-weight: bold;}
+H2 {  font-family: "Palatino Linotype", "Palatino", "Microsoft Serif", "Times New Roman"; font-size: 24pt; font-style: italic;}
+H3 {  font-family: "Palatino Linotype", "Palatino", "Microsoft Serif", "Times New Roman"; font-size: 20pt; font-weight: bold; text-align: center;}
+.reverse {color: #FFFFFF; background-color: #333333; font-size: 10pt;}
+.single-react {line-height: 150%; font-size: 8pt; color: #FF6600;}
+-->
